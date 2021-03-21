@@ -1,0 +1,203 @@
+.header {
+    margin-top: 10px;
+}
+a.btn {
+    width: 100%;
+}
+.overflow-visible {
+  white-space: initial;
+}
+
+#reSelect {
+    display: block;
+    background-color: black !important;
+    margin: 0 auto 15px auto;
+    padding: 20px;
+}
+
+#reSelect a{
+    text-decoration: none;
+    color: white !important;
+}
+
+.btnValide {
+    display: block !important;
+    margin: 0 auto 15px auto !important;
+    padding: 20px;
+}
+
+
+.butTxtBlanc {
+    color: #fff !important;
+}
+
+.orange .active a,
+.orange .active a:hover {
+    background-color: #f88813 !important;
+}
+.orange {
+    color: #f88813 !important;
+}
+.orange a {
+    color: #f88813;
+}
+.panel-primary {
+  border-color: #f88813;
+}
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: #f88813;
+  border-color: #f88813;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #f88813;
+}
+.panel-primary > .panel-heading .badge {
+  color: #f88813;
+  background-color: #f88813;
+}
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #f88813;
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #696969;
+  border-color: #696969;
+}
+.btn-secondary:focus,
+.btn-orange.focus {
+  color: #fff;
+  background-color: #696969;
+  border-color: #111112;
+}
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #111112;
+  border-color: #111112;
+}
+.btn-secondary:active,
+.btn-secondary.active,
+.open > .dropdown-toggle.btn-secondary {
+  color: #fff;
+  background-color: #696969;
+  border-color: #696969;
+}
+.btn-secondary:active:hover,
+.btn-secondary.active:hover,
+.open > .dropdown-toggle.btn-secondary:hover,
+.btn-secondary:active:focus,
+.btn-secondary.active:focus,
+.open > .dropdown-toggle.btn-secondary:focus,
+.btn-secondary:active.focus,
+.btn-secondary.active.focus,
+.open > .dropdown-toggle.btn-secondary.focus {
+  color: #fff;
+  background-color: #696969;
+  border-color: #111112;
+}
+.btn-secondary:active,
+.btn-secondary.active,
+.open > .dropdown-toggle.btn-secondary {
+  background-image: none;
+}
+.btn-secondary.disabled:hover,
+.btn-secondary[disabled]:hover,
+fieldset[disabled] .btn-secondary:hover,
+.btn-secondary.disabled:focus,
+.btn-secondary[disabled]:focus,
+fieldset[disabled] .btn-secondary:focus,
+.btn-secondary.disabled.focus,
+.btn-secondary[disabled].focus,
+fieldset[disabled] .btn-secondary.focus {
+  background-color: #696969;
+  border-color: #111112;
+}
+.btn-secondary .badge {
+  color: #696969;
+  background-color: #fff;
+}
+
+.btn-orange {
+  color: #fff;
+  background-color: #f88813;
+  border-color: #c46c10;
+}
+.btn-orange:focus,
+.btn-orange.focus {
+  color: #fff;
+  background-color: #c46c10;
+  border-color: #c46c10;
+}
+.btn-orange:hover {
+  color: #fff;
+  background-color: #c46c10;
+  border-color: #c46c10;
+}
+.btn-orange:active,
+.btn-orange.active,
+.open > .dropdown-toggle.btn-orange {
+  color: #fff;
+  background-color: #c46c10;
+  border-color: #c46c10;
+}
+.btn-orange:active:hover,
+.btn-orange.active:hover,
+.open > .dropdown-toggle.btn-orange:hover,
+.btn-orange:active:focus,
+.btn-orange.active:focus,
+.open > .dropdown-toggle.btn-orange:focus,
+.btn-orange:active.focus,
+.btn-orange.active.focus,
+.open > .dropdown-toggle.btn-orange.focus {
+  color: #fff;
+  background-color: #c46c10;
+  border-color: #c46c10;
+}
+.btn-orange:active,
+.btn-orange.active,
+.open > .dropdown-toggle.btn-orange {
+  background-image: none;
+}
+.btn-orange.disabled:hover,
+.btn-orange[disabled]:hover,
+fieldset[disabled] .btn-orange:hover,
+.btn-orange.disabled:focus,
+.btn-orange[disabled]:focus,
+fieldset[disabled] .btn-orange:focus,
+.btn-orange.disabled.focus,
+.btn-orange[disabled].focus,
+fieldset[disabled] .btn-orange.focus {
+  background-color: #f88813;
+  border-color: #c46c10;
+}
+.btn-orange .badge {
+  color: #f88813;
+  background-color: #fff;
+}
+
+input[type=checkbox] {
+     cursor: pointer;
+  }
+
+ input[type=checkbox]:after {
+  content: " ";
+  background-color: #f88813;
+  display: inline-block;
+  visibility: visible;
+ }
+
+ input[type=checkbox]:checked:after {
+   content: "\2714";
+   width: 110%;
+ }
+
+.affichage  h3{
+  display: inline-block;
+  height: 45px;
+  width: 30%;
+  margin-left: 20px;
+}
+
+.affichage {
+  border: 1px #f88813 solid;
+}
