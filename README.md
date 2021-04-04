@@ -4,8 +4,9 @@
 
 Accès à mon porfolio : https://g-alexis.com/portfolio
 
+Accès à mon rapport de projet : https://github.com/G-alexis-Fr/gsb_comptable/blob/master/GSBComptableProjetAlexis-Web.pdf
 
-Accès au projet : http://gsbcomptable.g-alexis.com
+Accès au projet en ligne : http://gsbcomptable.g-alexis.com
 
 Vous retrouverez la documentation pour ce projet à cette adresse : http://gsbdocumentation.g-alexis.com
 
