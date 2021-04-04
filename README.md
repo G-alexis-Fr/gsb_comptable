@@ -4,7 +4,6 @@
 
 Accès à mon porfolio : https://g-alexis.com/portfolio
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Accès au projet : http://gsbcomptable.g-alexis.com
 
